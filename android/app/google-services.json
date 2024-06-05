@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "656543648990",
+    "project_id": "mobotech-f67a7",
+    "storage_bucket": "mobotech-f67a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656543648990:android:de65cc197ae4242530864f",
+        "android_client_info": {
+          "package_name": "com.mobotech.shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb-AmMyZtGhuhQ88MDF0xKUvVQYzzR8KE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
